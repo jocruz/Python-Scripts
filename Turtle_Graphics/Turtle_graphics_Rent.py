@@ -1,4 +1,3 @@
-# lab 2 draft
 
 from turtle import *
 bob = Turtle()
