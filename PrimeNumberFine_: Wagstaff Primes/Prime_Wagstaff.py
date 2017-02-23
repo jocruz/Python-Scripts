@@ -1,5 +1,3 @@
-
-
 def sieve (n):
     candidates = [1] * (n+1)
     
