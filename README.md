@@ -1,10 +1,9 @@
-# Python-Scripts
-These are just a few Python Scripts I worked on. Some may be hard to understand but as it shows, I start to better understand scripting and making things more fluent.
-
-I have a it of algorithm practice that I learned from my data structure course and applied it to Python so I have a couple of scripts in that folder.
-
-I have a mini project I did to help teach a course in my time as a teacher assistant student in Stony Brook University. 
-
-I also experimented with Python Turtle Graphics. I started realizing python was more than just organinzing data, so I ventured out of my comfort zone to try something new! I personally like the checker one.
-
-And finally I have messy compilation of cool python scripts I have in one folder. My lastest one was just trying to see if I can automate folder permissions using CMD commands, and that lead me to importing excel libraries. 
+📚 College Python Scripts Collection
+🌟 Introduction
+Welcome to my treasure trove of Python scripts, a collection of projects that I not only developed during my college years at Stony Brook University but also used as teaching tools while serving as a Teacher Assistant. Each script here is more than just a set of commands; they are the essence of knowledge shared and lessons learned.
+🤖 About the Scripts
+These scripts represent a spectrum of assignments and projects I undertook, showcasing my journey through the complexities of coding and problem-solving. They are a testament to my growth as a developer and my commitment to aiding fellow students in their coding voyage.
+👨‍🏫 My Role as a Teacher Assistant
+As a Teacher Assistant, I had the unique opportunity to not only work on these scripts but also to pass the baton of knowledge to the next generation of students. These scripts were tools through which I could convey complex concepts in a digestible manner, aiding students in overcoming the hurdles of coding.
+🤝 Contributing and Feedback
+I warmly welcome contributions and feedback. If you have suggestions, improvements, or want to discuss the scripts, please feel free to reach out or create an issue/pull request on GitHub.
